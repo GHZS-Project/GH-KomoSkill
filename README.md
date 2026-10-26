@@ -1,5 +1,7 @@
 # GH-KomoSkill
 
+> 📚 **本文档属于 GH 系列交接项目。** 总入口（全部 10 个仓库索引、可用性实测、可复制的 AI Agent prompt）：https://github.com/A13612812330/GH-Handover
+
 **一个可以 clone 下来直接用的「AI 协作工作法」技能。**
 
 不管你用 Codex、WorkBuddy 还是 Claude，装上它，agent 的行为会从「你说一句它干一段」变成：
