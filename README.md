@@ -1,6 +1,6 @@
 # GH-KomoSkill
 
-> 📚 **本文档属于 GH 系列交接项目。** 总入口（全部 10 个仓库索引、可用性实测、可复制的 AI Agent prompt）：https://github.com/A13612812330/GH-Handover
+> 📚 **本文档属于 GH 系列交接项目。** 总入口（全部 10 个仓库索引、可用性实测、可复制的 AI Agent prompt）：https://github.com/GHZS-Project/GH-Handover
 
 **一个可以 clone 下来直接用的「AI 协作工作法」技能。**
 
@@ -34,7 +34,7 @@
 ## 装
 
 ```bash
-git clone https://github.com/A13612812330/GH-KomoSkill.git
+git clone https://github.com/GHZS-Project/GH-KomoSkill.git
 cd GH-KomoSkill
 python scripts/install.py                 # 自动探测 skills 目录
 # 或指定： python scripts/install.py --target workbuddy
