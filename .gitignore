@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+
+# 项目运行时产物（本仓库是技能源，不应包含使用者的项目状态）
+.workbuddy/flow.json
+.workbuddy/memory/
+*.log
